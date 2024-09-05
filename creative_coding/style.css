@@ -1,0 +1,14 @@
+body{
+    background-color: #ff00b2;
+    margin: 10px;
+    padding:0;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:2em;
+}
+a:visited{color:bisque;
+}
+a:hover{
+    font-size:5em;
+}
